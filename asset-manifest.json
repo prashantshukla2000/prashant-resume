@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/prashantshukla2000/prashant-resume/static/css/main.2e8c3c8e.css",
-    "main.js": "/prashantshukla2000/prashant-resume/static/js/main.fbd7b7b7.js",
-    "static/media/profile.jpg": "/prashantshukla2000/prashant-resume/static/media/profile.8145a9486c731d89e472.jpg",
-    "static/media/about.jpg": "/prashantshukla2000/prashant-resume/static/media/about.688d847cf0dda9291c42.jpg",
-    "static/media/cv.pdf": "/prashantshukla2000/prashant-resume/static/media/cv.089ad6850db67ca0ea92.pdf",
-    "static/media/testimonial3.jpg": "/prashantshukla2000/prashant-resume/static/media/testimonial3.25037666cca34f8f569a.jpg",
-    "static/media/work2.jpg": "/prashantshukla2000/prashant-resume/static/media/work2.e52a0c2981a6c11ba468.jpg",
-    "static/media/testimonial2.png": "/prashantshukla2000/prashant-resume/static/media/testimonial2.39a53f7f092f07f5bceb.png",
-    "static/media/work4.jpg": "/prashantshukla2000/prashant-resume/static/media/work4.aee985961b648f4df1f2.jpg",
-    "static/media/work5.jpg": "/prashantshukla2000/prashant-resume/static/media/work5.094ec4a2224db8908873.jpg",
-    "static/media/work1.jpg": "/prashantshukla2000/prashant-resume/static/media/work1.321b4ae3bf404acdfdc6.jpg",
-    "static/media/work3.jpg": "/prashantshukla2000/prashant-resume/static/media/work3.135e9065694bc13dc31d.jpg",
-    "static/media/testimonial1.png": "/prashantshukla2000/prashant-resume/static/media/testimonial1.89079c1d25f2c94ceb89.png",
-    "index.html": "/prashantshukla2000/prashant-resume/index.html",
-    "main.2e8c3c8e.css.map": "/prashantshukla2000/prashant-resume/static/css/main.2e8c3c8e.css.map",
-    "main.fbd7b7b7.js.map": "/prashantshukla2000/prashant-resume/static/js/main.fbd7b7b7.js.map"
+    "main.css": "/prashant-resume/static/css/main.42d960a2.css",
+    "main.js": "/prashant-resume/static/js/main.d20a11fc.js",
+    "static/media/profile.jpg": "/prashant-resume/static/media/profile.8145a9486c731d89e472.jpg",
+    "static/media/about.jpg": "/prashant-resume/static/media/about.688d847cf0dda9291c42.jpg",
+    "static/media/cv.pdf": "/prashant-resume/static/media/cv.089ad6850db67ca0ea92.pdf",
+    "static/media/testimonial3.jpg": "/prashant-resume/static/media/testimonial3.25037666cca34f8f569a.jpg",
+    "static/media/work2.jpg": "/prashant-resume/static/media/work2.e52a0c2981a6c11ba468.jpg",
+    "static/media/testimonial2.png": "/prashant-resume/static/media/testimonial2.39a53f7f092f07f5bceb.png",
+    "static/media/work4.jpg": "/prashant-resume/static/media/work4.aee985961b648f4df1f2.jpg",
+    "static/media/work5.jpg": "/prashant-resume/static/media/work5.094ec4a2224db8908873.jpg",
+    "static/media/work1.jpg": "/prashant-resume/static/media/work1.321b4ae3bf404acdfdc6.jpg",
+    "static/media/work3.jpg": "/prashant-resume/static/media/work3.135e9065694bc13dc31d.jpg",
+    "static/media/testimonial1.png": "/prashant-resume/static/media/testimonial1.89079c1d25f2c94ceb89.png",
+    "index.html": "/prashant-resume/index.html",
+    "main.42d960a2.css.map": "/prashant-resume/static/css/main.42d960a2.css.map",
+    "main.d20a11fc.js.map": "/prashant-resume/static/js/main.d20a11fc.js.map"
   },
   "entrypoints": [
-    "static/css/main.2e8c3c8e.css",
-    "static/js/main.fbd7b7b7.js"
+    "static/css/main.42d960a2.css",
+    "static/js/main.d20a11fc.js"
   ]
 }
